@@ -1,0 +1,9 @@
+C:\Projetos\ShoppingCake\ShoppingCake.Domain\bin\Debug\netcoreapp3.1\ShoppingCake.Domain.deps.json
+C:\Projetos\ShoppingCake\ShoppingCake.Domain\bin\Debug\netcoreapp3.1\ShoppingCake.Domain.dll
+C:\Projetos\ShoppingCake\ShoppingCake.Domain\bin\Debug\netcoreapp3.1\ShoppingCake.Domain.pdb
+C:\Projetos\ShoppingCake\ShoppingCake.Domain\obj\Debug\netcoreapp3.1\ShoppingCake.Domain.csprojAssemblyReference.cache
+C:\Projetos\ShoppingCake\ShoppingCake.Domain\obj\Debug\netcoreapp3.1\ShoppingCake.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ShoppingCake\ShoppingCake.Domain\obj\Debug\netcoreapp3.1\ShoppingCake.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ShoppingCake\ShoppingCake.Domain\obj\Debug\netcoreapp3.1\ShoppingCake.Domain.AssemblyInfo.cs
+C:\Projetos\ShoppingCake\ShoppingCake.Domain\obj\Debug\netcoreapp3.1\ShoppingCake.Domain.dll
+C:\Projetos\ShoppingCake\ShoppingCake.Domain\obj\Debug\netcoreapp3.1\ShoppingCake.Domain.pdb

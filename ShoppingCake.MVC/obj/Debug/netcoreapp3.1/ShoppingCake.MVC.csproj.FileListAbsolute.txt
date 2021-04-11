@@ -109,3 +109,4 @@ C:\Projetos\ShoppingCake\ShoppingCake.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Micros
 C:\Projetos\ShoppingCake\ShoppingCake.MVC\obj\Debug\netcoreapp3.1\ShoppingCake.MVC.csproj.CoreCompileInputs.cache
 C:\Projetos\ShoppingCake\ShoppingCake.MVC\obj\Debug\netcoreapp3.1\ShoppingCake.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Projetos\ShoppingCake\ShoppingCake.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Projetos\ShoppingCake\ShoppingCake.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Menu\Detail.cshtml.g.cs

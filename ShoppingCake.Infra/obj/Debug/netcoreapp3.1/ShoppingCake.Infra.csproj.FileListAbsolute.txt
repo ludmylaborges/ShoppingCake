@@ -1,0 +1,15 @@
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\bin\Debug\netcoreapp3.1\ShoppingCake.Infra.deps.json
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\bin\Debug\netcoreapp3.1\ShoppingCake.Infra.dll
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\obj\Debug\netcoreapp3.1\ShoppingCake.Infra.csprojAssemblyReference.cache
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\obj\Debug\netcoreapp3.1\ShoppingCake.Infra.AssemblyInfoInputs.cache
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\obj\Debug\netcoreapp3.1\ShoppingCake.Infra.AssemblyInfo.cs
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\bin\Debug\netcoreapp3.1\ShoppingCake.Infra.pdb
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\bin\Debug\netcoreapp3.1\ShoppingCake.Domain.dll
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\bin\Debug\netcoreapp3.1\ShoppingCake.Domain.pdb
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\obj\Debug\netcoreapp3.1\ShoppingCake.Infra.csproj.CopyComplete
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\obj\Debug\netcoreapp3.1\ShoppingCake.Infra.dll
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\obj\Debug\netcoreapp3.1\ShoppingCake.Infra.pdb
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\bin\Debug\netcoreapp3.1\ShoppingCake.Infra.runtimeconfig.json
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\bin\Debug\netcoreapp3.1\ShoppingCake.Infra.runtimeconfig.dev.json
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\obj\Debug\netcoreapp3.1\ShoppingCake.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\ShoppingCake\ShoppingCake.Infra\obj\Debug\netcoreapp3.1\ShoppingCake.Infra.genruntimeconfig.cache

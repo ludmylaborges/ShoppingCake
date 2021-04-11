@@ -1,0 +1,20 @@
+﻿@model ShoppingCake.MVC.Models.Products.ProductModel;
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h1>Detail</h1>
+
+<div class="row m-auto text-center w-75">
+    <div class="img-wrap"><img src=@Model.Image></div>
+    <div class="card-body bg-white mt-0 shadow">
+        <ul class="list-unstyled mb-5 position-relative">
+            <li>@Model.ProductName</li>
+            <li><b>@Model.Price</b> R$</li>
+            <li><b>50</b> fatias</li>
+            <li><b>@Model.Description</b></li>
+        </ul>
+        <button type="button" class="btn btn-lg btn-block  btn-custom ">Comprar</button>
+    </div>
+</div>
+
