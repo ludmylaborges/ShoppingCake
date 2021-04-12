@@ -6069,19 +6069,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ludmy\\.nuget\\packages\\": {}
+    "C:\\Users\\miche\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\ShoppingCake\\ShoppingCake.MVC\\ShoppingCake.MVC.csproj",
+      "projectUniqueName": "D:\\Projetos\\ShoppingCake\\ShoppingCake\\ShoppingCake.MVC\\ShoppingCake.MVC.csproj",
       "projectName": "ShoppingCake.MVC",
-      "projectPath": "C:\\Projetos\\ShoppingCake\\ShoppingCake.MVC\\ShoppingCake.MVC.csproj",
-      "packagesPath": "C:\\Users\\Ludmy\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\ShoppingCake\\ShoppingCake.MVC\\obj\\",
+      "projectPath": "D:\\Projetos\\ShoppingCake\\ShoppingCake\\ShoppingCake.MVC\\ShoppingCake.MVC.csproj",
+      "packagesPath": "C:\\Users\\miche\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\ShoppingCake\\ShoppingCake\\ShoppingCake.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ludmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\miche\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6093,6 +6093,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -6104,6 +6105,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
@@ -6128,7 +6130,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
