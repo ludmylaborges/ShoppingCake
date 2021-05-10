@@ -17,7 +17,11 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <Folder Include="ADO\" />
+=======
+    <Folder Include="Maps\" />
+>>>>>>> 54b3ba00f174d02c01483b154b6fd41988d4b9a9
   </ItemGroup>
 
 </Project>
