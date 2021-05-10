@@ -12,6 +12,11 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ShoppingCake.Domain\ShoppingCake.Domain.csproj" />
+    <ProjectReference Include="..\ShoppingCake.Infra\ShoppingCake.Infra.csproj" />
+  </ItemGroup>
+
 
 
 </Project>

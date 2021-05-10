@@ -16,4 +16,8 @@
     <ProjectReference Include="..\ShoppingCake.Domain\ShoppingCake.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ADO\" />
+  </ItemGroup>
+
 </Project>

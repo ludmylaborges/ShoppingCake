@@ -20,7 +20,10 @@ namespace ShoppingCake.Infra.Context
         public DbSet<Purchase> Purchase { get; set; }
         public DbSet<User> User { get; set; }
 
+        public DbContextShoppingCake()
+        {
 
+        }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);

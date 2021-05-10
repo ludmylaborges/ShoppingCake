@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using ShoppingCake.Domain;
+using ShoppingCake.Domain.Users;
+using ShoppingCake.Infra.Context;
+using ShoppingCake.Infra.Repositories;
 
 namespace ShoppingCake.MVC
 {
@@ -24,6 +28,10 @@ namespace ShoppingCake.MVC
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+             
+
+            
+            services.AddScoped<IUserRepository, UserRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

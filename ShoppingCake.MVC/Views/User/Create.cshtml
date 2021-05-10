@@ -1,0 +1,63 @@
+﻿@model ShoppingCake.MVC.Models.Users.UserViewModel
+<h1>Formulario de cadastro</h1>
+@using (Html.BeginForm("Save", "User", null, FormMethod.Post)) { 
+<fieldset>
+
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="textinput">Nome</label>
+        <div class="col-md-4">
+            @Html.TextBoxFor(model => model.Name, new { @class = "form-control input-md" })
+        </div>
+    </div>
+
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="">Telefone</label>
+        <div class="col-md-4">
+            @Html.TextBoxFor(model => model.Telephone, new { @class = "form-control input-md" })
+        </div>
+    </div>
+
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="">E-mail</label>
+        <div class="col-md-4">
+            @Html.TextBoxFor(model => model.Email, new { @class = "form-control input-md" })
+        </div>
+    </div>
+
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="textinput">Data de Nascimento</label>
+        <div class="col-md-4">
+            @Html.TextBoxFor(model => model.BirthDate, new { @class = "form-control input-md" })
+        </div>
+    </div>
+
+    <!-- Password input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="">Senha</label>
+        <div class="col-md-4">
+            @Html.TextBoxFor(model => model.Password, new { @class = "form-control input-md", @type = "password" })
+        </div>
+    </div>
+
+    <!-- Password input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="">Repetir a senha</label>
+        <div class="col-md-4">
+            @Html.TextBoxFor(model => model.ConfirmPassword, new { @class = "form-control input-md", @type = "password" })
+        </div>
+    </div>
+
+    <!-- Button -->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for=""></label>
+        <div class="col-md-4">
+            <button id="" name="" class="btn btn-primary" type="submit">Salvar</button>
+        </div>
+    </div>
+
+</fieldset>
+}
